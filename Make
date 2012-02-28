@@ -1,0 +1,2 @@
+yui-compressor slider/jquery.slider.css --type css -o slider/jquery.slider.min.css
+yui-compressor slider/jquery.slider.js --type js -o slider/jquery.slider.min.js
